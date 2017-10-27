@@ -140,7 +140,7 @@ e-portfolio [คลิกที่นี้](https://sites.google.com/a/cvc-cha.
 3. สุกแล้วนำมากินได้
 
 แทรกภาพนักศึกษา
-![รูปภาพ](https://sites.google.com/a/cvc-cha.ac.th/natthaporn/khxmul-nakreiyn-naksuksa)
+![รูปภาพ](https://sites.google.com/a/cvc-cha.ac.th/natthaporn/_/rsrc/1501129199312/home/18739990_1867526900236465_7378527108097440543_n.jpg)
 
 สิ่งที่รู้และไม่รู้จากสัปดาห์นี้
 - [x] ไม่รู้ไรเลย
